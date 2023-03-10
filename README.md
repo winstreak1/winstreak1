@@ -2,7 +2,7 @@
 - 👀 I’m interested in innovation as it pertains to AI/ML, Data Science, Cybersecurity, and Mobile Development.
 - 🌱 I’m currently learning artificial intelligence (matlab, neural networks, genetic algorithm, backtracking a-star, bfs, dfs, pipelining, etc.)
 - I’m looking to collaborate on Artificial intelligence (AI), Cybersecurity, and Mobile Dev.
-- 📫 How to reach me pete@atxar.com
+- 📫 How to reach me p.mavronicolas@gmail.com
 
 <!---
 winstreak1/winstreak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
