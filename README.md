@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @winstreak1
-- 👀 I’m interested in innovation as it pertains to AI/ML, Data Science, Cybersecurity, and Mobile Development.
+- 👀 I’m interested in algorithmic options trading with consideration to time complexity, the thread and latency preparation using VPC's.
 - 🌱 I’m currently learning artificial intelligence (matlab, neural networks, genetic algorithm, backtracking a-star, bfs, dfs, pipelining, Jupyter Notebook, etc.)
-- I’m looking to collaborate on Artificial intelligence (AI), Cybersecurity, and Mobile Dev.
+- I’m looking to collaborate on Algorithmic trading strategies.
 - 📫 How to reach me p.mavronicolas@gmail.com
 
 <!---
